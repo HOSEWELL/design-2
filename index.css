@@ -1,0 +1,39 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+}
+li{
+    list-style: none;
+    text-decoration: none;
+    float: right;
+    padding: 10px;
+}
+.homepage{
+    display: flex;
+    border: solid;
+    padding: 15px;
+    grid-template-columns: 50% 50%;
+
+}
+.headphone{
+    width: 25%;
+    height: 25%;
+}
+.homecontent{
+bottom: 15px;
+}
+.par1{
+    color: red;
+}
+button{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 50px;
+}
+.icons{
+    display: flex;
+}
+.image1{
+    display: flex;
+}
